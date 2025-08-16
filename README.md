@@ -1,5 +1,13 @@
-An application that allows one to register multiple users and login respectively, create contacts with appropriate details, and uses basic CRUD operations to do so. 
+A backend web application that enables users to securely manage their personal contacts. The system supports multiple user accounts with individual authentication, allowing each user to maintain their own private contact database.
 
+Key Features:
+
+- User registration and secure login system
+- Personal contact creation and management
+- Complete CRUD operations (Create, Read, Update, Delete) for contact information
+- JWT-based authentication for secure API access
+- The application follows secure coding practices and provides a solid foundation for contact management functionality.
+  
 Tech Stack:
 
 - Node.js
