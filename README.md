@@ -1,17 +1,34 @@
+# 🌟 Personal Contacts Manager (Backend)
+
 A backend web application that enables users to securely manage their personal contacts. The system supports multiple user accounts with individual authentication, allowing each user to maintain their own private contact database.
 
-Key Features:
+---
 
-- User registration and secure login system
-- Personal contact creation and management
-- Complete CRUD operations (Create, Read, Update, Delete) for contact information
-- JWT-based authentication for secure API access
-- The application follows secure coding practices and provides a solid foundation for contact management functionality.
+## 🚀 Key Features
+
+- **🔒 User Registration & Login**  
   
-Tech Stack:
 
-- Node.js
-- Express.js
-- MongoDB
-- Uses JSONWebTokens
-- ThunderClient VSCode 
+- **📇 Personal Contact Management**  
+  
+
+- **⚡ Complete CRUD Operations**  
+     - Create, view, update, and delete contacts with ease.
+
+- **🛡️ JWT Authentication**  
+  
+
+- **✅ Secure Coding Practices**  
+  
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|------------|---------|
+| Node.js    | Server-side JavaScript runtime |
+| Express.js | RESTful API framework |
+| MongoDB    | Database for storing users & contacts |
+| JSON Web Tokens (JWT) | Secure API authentication |
+| ThunderClient (VSCode) | API testing & debugging |
